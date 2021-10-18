@@ -3,7 +3,7 @@
   top: 0;
   width: 100%;
   box-sizing: border-box;
-  background-color: white;
+  background-color: var(--rosequartz);
   z-index: 2;
   display: flex;
   justify-content: space-between;

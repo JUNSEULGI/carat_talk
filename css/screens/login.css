@@ -24,16 +24,17 @@
   padding: 20px 0px;
   border: none;
   font-size: 20px;
+  background-color: var(--rosequartz);
 }
 #login-form input:not([type="submit"]) {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  border-bottom: 1px solid white;
   transition: border-color 0.2s ease-in-out;
 }
 #login-form input::placeholder {
-  color: rgba(0, 0, 0, 0.4);
+  color: white;
 }
 #login-form input:focus {
-  border-color: var(--yellow);
+  border-color: var(--serenity);
 }
 #login__button {
   margin-top: 40px;
@@ -42,8 +43,9 @@
 #login-form input[type="submit"] {
   border-radius: 5px;
   cursor: pointer;
-  background-color: var(--yellow);
+  background-color: var(--serenity);
   padding: 17px 0px;
+  color: white;
 }
 #login-form a {
   text-align: center;

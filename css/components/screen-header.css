@@ -6,7 +6,7 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
-  background-color: white;
+  background-color: var(--rosequartz);
   z-index: 1;
 }
 .screen-header__title {

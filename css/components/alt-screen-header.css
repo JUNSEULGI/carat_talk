@@ -6,7 +6,7 @@
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
   padding: 45px 25px 20px 25px;
-  background-color: white;
+  background-color: var(--rosequartz);
   z-index: 1;
 }
 .alt-screen-header__column {
