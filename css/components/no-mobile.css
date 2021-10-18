@@ -4,7 +4,7 @@
   z-index: 99;
   height: 100%;
   width: 100%;
-  background-color: var(--yellow);
+  background-color: var(--rosequartz);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +27,7 @@
   z-index: 99;
   height: 100%;
   width: 100%;
-  background-color: var(--yellow);
+  background-color: var(--rosequartz);
   display: flex;
   justify-content: center;
   align-items: center;

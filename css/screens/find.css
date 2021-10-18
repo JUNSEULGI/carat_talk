@@ -5,7 +5,6 @@
 
 .recommended-friends {
   border-bottom: var(--main-border);
-  border-top: var(--main-border);
   padding-top: 20px;
   color: rgba(0, 0, 0, 0.4);
   font-weight: 600;
@@ -66,7 +65,7 @@
   margin: 0 5px;
 }
 .open-post__status {
-  color: rgb(255, 65, 223);
+  color: rgb(145, 88, 211);
 }
 .open-post__thumbnail {
   height: 112px;
